@@ -1,4 +1,4 @@
-# newhotel
+# IONIC sample Food App
 
 This is IONIC Food app.
 
